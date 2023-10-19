@@ -1,4 +1,4 @@
-hartufo
+hartufo>=0.6.3
 scikit-learn
 tensorflow-cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
